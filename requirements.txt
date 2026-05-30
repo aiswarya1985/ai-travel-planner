@@ -18,3 +18,8 @@ setuptools>=80.9.0
 
 # --- Frontend ---
 streamlit>=1.35.0  # <--- Add this line!
+
+logfire
+pydantic
+deepeval
+logfire[httpx]
